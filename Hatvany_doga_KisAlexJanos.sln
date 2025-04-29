@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hatvany", "Hatvany\Hatvany.csproj", "{646F61A2-B15D-4CF4-9F21-66A565F5937F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HatvanyTeszt", "HatvanyTeszt\HatvanyTeszt.csproj", "{0D92320D-7A71-4A08-9403-5C62BF0E8C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646F61A2-B15D-4CF4-9F21-66A565F5937F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646F61A2-B15D-4CF4-9F21-66A565F5937F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646F61A2-B15D-4CF4-9F21-66A565F5937F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646F61A2-B15D-4CF4-9F21-66A565F5937F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D92320D-7A71-4A08-9403-5C62BF0E8C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D92320D-7A71-4A08-9403-5C62BF0E8C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D92320D-7A71-4A08-9403-5C62BF0E8C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D92320D-7A71-4A08-9403-5C62BF0E8C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A314CCFD-0080-479B-9B9D-A3D98CC18182}
+	EndGlobalSection
+EndGlobal
