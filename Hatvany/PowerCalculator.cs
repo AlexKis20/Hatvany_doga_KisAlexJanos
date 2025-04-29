@@ -19,6 +19,7 @@ namespace Hatvany
         }
         static void Main(string[] args)
         {
+            double eredmeny = new PowerCalculator();
             Console.Write("Add meg az első számot: ");
             double a=double.Parse(Console.ReadLine());
             Console.Write("Add meg az első számot: ");
