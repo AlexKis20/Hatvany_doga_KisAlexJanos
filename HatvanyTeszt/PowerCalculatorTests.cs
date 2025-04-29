@@ -13,7 +13,7 @@ namespace HatvanyTeszt
             double a = 2;
             double b = 3;
             
-            
+            //Tudom hogy itt hiányzik valami de nem jut eszembe, hogy mi.
             
 
             Assert.AreEqual(8, eredmeny);
